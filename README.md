@@ -1,39 +1,33 @@
-# InscribeAI Project Documentation
+# InscribeAI Intelligent Blogging Application
 
-## Overview
-InscribeAI is a creative writing assistant that leverages AI to help users generate written content. Utilizing natural language processing, it can suggest improvements, generate ideas, and assist with various writing tasks.
+This is a blogging application powered by AI written in Python.
 
 ## Features
-- **Content Generation**: Generates text based on user input.
-- **Grammar and Style Suggestions**: Analyzes text for grammatical errors and style improvements.
-- **Research Assistance**: Provides relevant information to aid writing tasks.
+- User-friendly interface
+- AI-generated content
+- Bookmark management
+- Analytics dashboard
 
 ## Installation
-To install InscribeAI, follow the steps below:
-1. Clone the repository: 
+
+1. Clone the repository
    ```bash
-   git clone https://github.com/sanjeevraj0987/Inscribe-AI.git
+   git clone https://github.com/Soundaryajothi/InscribeAI-Intelligent-Blogging-Application.git
    ```
-2. Navigate to the project directory: 
+2. Navigate to the project directory
    ```bash
-   cd Inscribe-AI
+   cd InscribeAI-Intelligent-Blogging-Application
    ```
-3. Install required packages: 
+3. Install the required packages
    ```bash
    pip install -r requirements.txt
    ```
+4. Run the application
+   ```bash
+   python app.py
+   ```
 
 ## Usage
-To use InscribeAI, run the following command: 
-```bash
-python app.py
-```
 
-## Contributing
-Contributions are welcome! Please submit a pull request to contribute.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For questions, please contact sanjeevraj0987 via GitHub or email.
+- Follow the prompts in the application to create your first blog post.
+- Use the analytics dashboard to track your engagement and performance.
